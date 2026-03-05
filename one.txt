@@ -2,3 +2,4 @@ first text file
 Added more content
 hello.
 New Feature
+Added another text to restore
