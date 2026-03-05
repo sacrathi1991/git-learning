@@ -3,3 +3,5 @@ Added more content
 hello.
 New Feature
 Added another text to restore
+
+adding dark mode functionality
